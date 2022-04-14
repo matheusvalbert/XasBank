@@ -87,4 +87,4 @@ Após a realização de sua migração, seria necessário existir dois novos cam
 ## Videos demonstrativos
 
 - Instalação: https://youtu.be/lwPwggPX76A
-- Utilização: https://youtu.be/wiXODKqzM6c
+- Execução: https://youtu.be/wiXODKqzM6c
