@@ -64,7 +64,7 @@ Após a realização de sua migração, seria necessário existir dois novos cam
   $ git clone git@github.com:matheusvalbert/XasBank.git
   
   # Instalação
-  $ cd cd Xasbank
+  $ cd Xasbank
   $ sudo docker-compose up -d
   $ sudo docker-compose exec app /bin/bash
   $ composer install
