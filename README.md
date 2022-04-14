@@ -61,10 +61,10 @@ Após a realização de sua migração, seria necessário existir dois novos cam
 
 ```bash
   # Clone do projeto
-  $ git clone https://github.com/matheusvalbert/Teste-Yahp.git
+  $ git clone git@github.com:matheusvalbert/XasBank.git
   
   # Instalação
-  $ cd Teste-Yahp
+  $ cd cd Xasbank
   $ sudo docker-compose up -d
   $ sudo docker-compose exec app /bin/bash
   $ composer install
