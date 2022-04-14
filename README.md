@@ -20,6 +20,10 @@ Após a realização de sua migração, seria necessário existir dois novos cam
 - Docker;
 - Git.
 
+### API:
+- Página 1: https://reqres.in/api/users?page=1
+- Página 2: https://reqres.in/api/users?page=2
+
 ### Funcionalidades do sistema:
 
 - Migração dos dados da API para o sistema local, salvando os dados em um banco MySQL e as imagens de perfil em uma pasta ('src/public/img/');
@@ -82,5 +86,5 @@ Após a realização de sua migração, seria necessário existir dois novos cam
 
 ## Videos demonstrativos
 
-- Instalação: 
-- Utilização:
+- Instalação: https://youtu.be/lwPwggPX76A
+- Utilização: https://youtu.be/wiXODKqzM6c
