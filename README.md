@@ -65,7 +65,7 @@ Após a realização de sua migração, seria necessário existir dois novos cam
 
 ```bash
   # Clone do projeto
-  $ git clone git@github.com:matheusvalbert/XasBank.git
+  $ git clone https://github.com/matheusvalbert/XasBank.git
   
   # Instalação
   $ cd XasBank
